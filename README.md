@@ -8,3 +8,9 @@
 很是简陋，技术不过。
 
 全部在一个py里面，就是那个pachong.py
+
+
+效果图：
+![tu1](https://github.com/nciefeiniu/gupiaofenxi/blob/master/gupiao1.png)
+![2](https://github.com/nciefeiniu/gupiaofenxi/blob/master/gupiao2.png)
+![2](https://github.com/nciefeiniu/gupiaofenxi/blob/master/gupiao3.png)
